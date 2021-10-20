@@ -3,9 +3,21 @@ Retrievals presented in
 
 Kedzuf, N.J., Chiu, J.C., Chandrasekar, V., Biswas, S., Joshil, S.S., Lu, Y., van Leeuwen, P.J., Westbrook, C., Blanchard, Y. and O'Shea, S, 2021: Retrieving microphysical properties of concurrent pristine ice and snow using polarimetric radar observations, Atmos. Meas. Tech., 14, 1–20, 2021, https://doi.org/10.5194/amt-14-1-2021
 
-Format: npz file; you can use np.load to read the output
+Contact Information: 
+
+Christine Chiu
+
+Department of Atmospheric Science,Colorado State University			
+	
+Email: Christine.Chiu@colostate.edu				
+
+Web: http://cloud-radiation.atmos.colostate.edu
+
 
 ====================================================
+
+Format: npz file; you can use np.load to read the output
+
 
 All variables comprise 6 values corresponding to different data cluster
 
